@@ -4,15 +4,11 @@
 
 <div align="center">
 
-```
-　　　　✦ ˚　　　　　 .  　　　·　　　　  ✦　　　　　　✦
-　　 ✦　　  .  　　　　　　　　　　　　　　　　  　·　 ✦
-　 .　　　　  　　　　　　· 　　　✦ 　　　　　.
-　✦  　　　　　　　 　　  ·  　　　　·　✦　　　　 .
-```
-
 [![GitHub](https://img.shields.io/badge/GitHub-plyegh-B784FF?style=for-the-badge&logo=github&logoColor=white&labelColor=2D1B69)](https://github.com/plyegh)
 [![Baekjoon](https://img.shields.io/badge/BOJ-bdongjun343-FF9CE7?style=for-the-badge&logo=boj&logoColor=white&labelColor=2D1B69)](https://solved.ac/profile/bdongjun343)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]()
 
 <br>
 
@@ -21,30 +17,6 @@
 <br>
 
 </div>
-
----
-
-<div align="center">
-
-## 💜 ✦ Tech Stack ✦ 💜
-
-> ✏️ 아래에 사용하는 기술 스택 배지를 추가해주세요!
-
-```
-예시 — 아래 뱃지 중 쓰는 것만 골라 붙여넣으세요:
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)]()
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)]()
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)]()
-```
-
-<!-- 기술 스택 배지 여기에 추가 -->
-
-</div>
-
-<br>
 
 ---
 
@@ -136,14 +108,3 @@
 [![Solved.ac Card](https://mazandi.herokuapp.com/api?handle=bdongjun343&theme=dark)](https://solved.ac/profile/bdongjun343)
 
 <br>
-
-```
-　　　　✦ ˚　　　　　 .  　　　·　　　　  ✦　　　　　　✦
-　　 ✦　　  .  　　　　　　　　　　　　　　　　  　·　 ✦
-　 .　　　　  　　　　　　· 　　　✦ 　　　　　.
-　✦  　　　　　　　 　　  ·  　　　　·　✦　　　　 .
-```
-
-</div>
-
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)](https://github.com/plyegh)
